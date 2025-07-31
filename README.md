@@ -1,4 +1,4 @@
-# Gabriel
+# Gabriel Soares
 **`Desenvolvedor Back-end`**
 
 Me chamo Gabriel Soares, tenho 24 anos e sou natural da Bahia. Concluí o ensino superior em Analise e Desenvolvimento de Sistemas pela UNIME. 
