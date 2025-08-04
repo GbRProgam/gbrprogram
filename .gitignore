@@ -1,0 +1,25 @@
+# Cache e arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+.env/
+.env
+
+# Arquivos de log ou debug
+*.log
+pip-log.txt
+
+# Pastas de configurações de IDEs
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Backup temporários
+*.bak
+*.tmp
